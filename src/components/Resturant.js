@@ -5,7 +5,7 @@ import MenuCard from "./MenuCard";
 import Navbar from './Navbar';
 
 const uniqueList=[
-    ... new Set(
+    ...new Set(
         Menu.map((currElem)=>{
             return currElem.category;
         })
@@ -20,7 +20,7 @@ const Resturant = () => {
     // const[menuList, setmenuList] = useState(uniqueList);
 
     const filterItem = (category)=>{
-        if(category == "All"){
+        if(category === "All"){
     
             setMenuData(Menu);
             return;
