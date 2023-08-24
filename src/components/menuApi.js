@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "../images/maggi.jpg",
+      image: "images/maggi.jpg",
       name: "chola",
       category: "lunch",
       price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../images/maggi.jpg",
+      image: "images/maggi.jpg",
       name: "pizza",
       category: "evening",
       price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/maggi.jpg",
+      image: "images/maggi.jpg",
       name: "Non-Veg Thali",
       category: "dinner",
       price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "../images/maggi.jpg",
+      image: "images/maggi.jpg",
       name: "Sweets",
       category: "dinner",
       price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "../images/maggi.jpg",
+      image: "images/maggi.jpg",
       name: "samaso",
       category: "evening",
       price: "10₹",
